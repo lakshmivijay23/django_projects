@@ -1,2 +1,2 @@
-# django_projects
-Django projects
+# Django projects
+Django projects 
